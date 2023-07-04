@@ -7,7 +7,7 @@ import javax.persistence.*;
 public class Employee {
 
     @Id                                         // to set as primary key
-    @GeneratedValue(strategy = GenerationType.IDENTITY)                              // Automatic value increment
+    @GeneratedValue                           // Automatic value increment
     private Long id;
 
     @Column(name="first_name")
