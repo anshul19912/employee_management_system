@@ -1,5 +1,5 @@
 # employee_management_system
-A Single Employee Management System Web App with CRUD operations using Spring boot, Hibernate, Oracle database, Spring MVC and Spring data JPA.
+
 ![Screenshot (94)](https://github.com/anshul19912/employee_management_system/assets/87997769/d1a8e51b-fb22-4a99-832c-72f84b02fcca)
 ![Screenshot (95)](https://github.com/anshul19912/employee_management_system/assets/87997769/aa5a6087-18bd-457a-a8d5-daa2d686906f)
 ![Screenshot (96)](https://github.com/anshul19912/employee_management_system/assets/87997769/df26247f-5855-4518-81d9-9fabba5a123e)
