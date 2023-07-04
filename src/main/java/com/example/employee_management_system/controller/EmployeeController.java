@@ -16,7 +16,7 @@ public class EmployeeController {
     @Autowired
     private Employeeservice employeeService;
 
-    //display list of employees
+    //display list of Employees
     @RequestMapping("/")                            //or  @GetMapping("/")
     public String viewHomePage(Model model){
 //        model.addAttribute("listEmployees", employeeService.getAllEmployees());
