@@ -1,8 +1,8 @@
 # employee_management_system
 
-![Screenshot (94)](https://github.com/anshul19912/employee_management_system/assets/87997769/d1a8e51b-fb22-4a99-832c-72f84b02fcca)
-![Screenshot (95)](https://github.com/anshul19912/employee_management_system/assets/87997769/aa5a6087-18bd-457a-a8d5-daa2d686906f)
-![Screenshot (96)](https://github.com/anshul19912/employee_management_system/assets/87997769/df26247f-5855-4518-81d9-9fabba5a123e)
-![Screenshot (97)](https://github.com/anshul19912/employee_management_system/assets/87997769/dc27312c-6a66-4606-a83b-05aa126db401)
-![Screenshot (98)](https://github.com/anshul19912/employee_management_system/assets/87997769/d5cb8739-0216-40a2-8e8c-45a4783af173)
-![Screenshot (99)](https://github.com/anshul19912/employee_management_system/assets/87997769/ebcfa8d3-145b-401a-be6c-10c6ba2822cd)
+![Screenshot (114)](https://github.com/anshul19912/employee_management_system/assets/87997769/17b38a13-4fa2-42b1-811c-d3c6665d18df)
+![Screenshot (115)](https://github.com/anshul19912/employee_management_system/assets/87997769/cfc822a3-b105-4a94-ac45-90f13daacf18)
+![Screenshot (116)](https://github.com/anshul19912/employee_management_system/assets/87997769/c77fd689-7bd9-4ea7-ae68-4772c9b4d0c3)
+![Screenshot (117)](https://github.com/anshul19912/employee_management_system/assets/87997769/4f50134a-f622-45a9-93e9-f3cbc18deb33)
+![Screenshot (118)](https://github.com/anshul19912/employee_management_system/assets/87997769/91ea2e9b-9ef4-49bd-ac8e-456f1d72f0ef)
+![Screenshot (119)](https://github.com/anshul19912/employee_management_system/assets/87997769/febb0c25-68ef-4ba9-8470-eacb96535397)
