@@ -1,8 +1,8 @@
 # employee_management_system
-A Single Employee Management System Web App with CRUD operations using Spring boot, Hibernate, Oracle database, Spring MVC and Spring data JPA.
-![Screenshot (94)](https://github.com/anshul19912/employee_management_system/assets/87997769/1f9e605f-b972-46f4-8b82-0385ea66b81d)
-![Screenshot (95)](https://github.com/anshul19912/employee_management_system/assets/87997769/b12a5f61-29ab-468c-8851-fdc13603e7e0)
-![Screenshot (96)](https://github.com/anshul19912/employee_management_system/assets/87997769/265a279b-dd85-42a0-bc97-19c9e74ad6fa)
-![Screenshot (97)](https://github.com/anshul19912/employee_management_system/assets/87997769/e6c82e4c-6d94-443c-96ff-4480e2b5d776)
-![Screenshot (98)](https://github.com/anshul19912/employee_management_system/assets/87997769/691efa5e-57d7-471f-b05b-83c7511cc9fb)
-![Screenshot (99)](https://github.com/anshul19912/employee_management_system/assets/87997769/880c73f7-08da-48ee-8486-bbb8f58e691c)
+
+![Screenshot (94)](https://github.com/anshul19912/employee_management_system/assets/87997769/d1a8e51b-fb22-4a99-832c-72f84b02fcca)
+![Screenshot (95)](https://github.com/anshul19912/employee_management_system/assets/87997769/aa5a6087-18bd-457a-a8d5-daa2d686906f)
+![Screenshot (96)](https://github.com/anshul19912/employee_management_system/assets/87997769/df26247f-5855-4518-81d9-9fabba5a123e)
+![Screenshot (97)](https://github.com/anshul19912/employee_management_system/assets/87997769/dc27312c-6a66-4606-a83b-05aa126db401)
+![Screenshot (98)](https://github.com/anshul19912/employee_management_system/assets/87997769/d5cb8739-0216-40a2-8e8c-45a4783af173)
+![Screenshot (99)](https://github.com/anshul19912/employee_management_system/assets/87997769/ebcfa8d3-145b-401a-be6c-10c6ba2822cd)
